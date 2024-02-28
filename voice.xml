@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say>Hello, this is your Twilio voice call. Thank you for using our service.</Say>
+</Response>
